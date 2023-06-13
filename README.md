@@ -12,3 +12,4 @@
 * **The outcome of the call is registered**
 * **Information about the last call from the previous marketing campaign**
 ----------------------
+### [Dataset Description](https://github.com/Maansy/Analyzing-Bank-Marketing-Campaign-Data/blob/main/figs/dataset%20description.png) 
