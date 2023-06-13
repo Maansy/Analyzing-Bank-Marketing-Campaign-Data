@@ -13,3 +13,6 @@
 * **Information about the last call from the previous marketing campaign**
 ----------------------
 ### [Dataset Description](https://github.com/Maansy/Analyzing-Bank-Marketing-Campaign-Data/blob/main/figs/dataset%20description.png) 
+----------------------
+### We should ask ourselves some questions:
+1. **Is there a statistically signigicant differnce in numerical features for successful and non-successful marketing campaigns?**
